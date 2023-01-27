@@ -13,9 +13,9 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 [4. Этапы работы над проектом](https://github.com/natali12851285/IDE/tree/main/Project_0#этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/natali12851285/IDE/tree/main/Project_0#результаты)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/natali12851285/IDE/tree/main/Project_0#вывод)
 
 ### Описание проекта
 - Угадай загаданное компьютером число за минимальное число попыток
