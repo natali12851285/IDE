@@ -5,7 +5,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 # Проект 0. Игра: Угадай число 
 ## Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/natali12851285/IDE/tree/main/Project_0#описание-проекта)
 
 [2. Какой кейс решаем]()
 
