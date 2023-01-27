@@ -7,11 +7,11 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ## Оглавление
 [1. Описание проекта](https://github.com/natali12851285/IDE/tree/main/Project_0#описание-проекта)
 
-[2. Какой кейс решаем]()
+[2. Какой кейс решаем](https://github.com/natali12851285/IDE/tree/main/Project_0#какой-кейс-решаем)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/natali12851285/IDE/tree/main/Project_0#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/natali12851285/IDE/tree/main/Project_0#этапы-работы-над-проектом)
 
 [5. Результат]()
 
@@ -42,6 +42,12 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ### Этапы работы над проектом
 - Проведено много тестов 
 - Проведена отладка программы
+
+### Результаты
+- Программа находим загаданное число в среднем за 47 попыток
+
+### Вывод
+- Вероятность угадать число при 1000 повторений составляе 4,7%
 
 
 
